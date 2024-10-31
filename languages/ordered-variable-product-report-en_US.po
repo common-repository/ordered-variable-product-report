@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ordered Variable Product Report 1.0.5\n"
+"POT-Creation-Date: 2017-11-21 12:02+0530\n"
+"PO-Revision-Date: 2017-11-21 12:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath:\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/ced-export-variable-product-class.php:74
+msgid "Orders of variable products."
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:108
+msgid ""
+"Soon you will receive the more details of this extension on the given mail."
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:112
+msgid "Sorry,an error occured.Please try again."
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:117
+msgid "Sorry,an error occured.Please try again"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:234
+msgid "Variable products of this order."
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:245
+msgid "Filter By:"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:248
+#: class/ced-export-variable-product-class.php:351
+#: class/ced-export-variable-product-class.php:444
+msgid "Date"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:250
+#: class/ced-export-variable-product-class.php:926
+msgid "Select start date"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:251
+#: class/ced-export-variable-product-class.php:931
+msgid "Select end date"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:255
+msgid "Products name"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:258
+msgid "Select products"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:301
+#: class/ced-export-variable-product-class.php:334
+#: class/ced-export-variable-product-class.php:335
+#: class/ced-export-variable-product-class.php:427
+#: class/ced-export-variable-product-class.php:428
+msgid "Status"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:304
+msgid "All"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:339
+#: class/ced-export-variable-product-class.php:432
+msgid "Order"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:342
+#: class/ced-export-variable-product-class.php:435
+#: class/ced-export-variable-product-class.php:607
+msgid "Purchased"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:345
+#: class/ced-export-variable-product-class.php:438
+#: class/ced-export-variable-product-class.php:612
+msgid "Ship to"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:348
+#: class/ced-export-variable-product-class.php:441
+msgid "Order Total"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:354
+#: class/ced-export-variable-product-class.php:450
+msgid "Actions"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:361
+msgid "No variable products orders found through your query."
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:370
+#: class/ced-export-variable-product-class.php:682
+msgid "Total Orders:"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:376
+#: class/ced-export-variable-product-class.php:690
+msgid "Variable Products Total:"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:387
+#: class/ced-export-variable-product-class.php:698
+msgid "Orders Total:"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:410
+msgid "Export Variable Ordered Products"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:412
+msgid "Ordered Variable Products Report"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:413
+msgid "Variable Product Orders"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:565
+msgid "Guest"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:577
+msgid "Show more details"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:621
+#: class/ced-export-variable-product-class.php:633
+msgid "Via"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:649
+#: class/ced-export-variable-product-class.php:650
+msgid "View"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:819
+msgid "This item is assigned as variable product, but no variations found."
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:845
+msgid "Sorry! Setting can not be displayed to this user role."
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:869
+msgid "enter your e-mail address"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:870
+msgid "Know More"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:885
+msgid "Set user roles to which setting should be displayed"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:918
+msgid "Filter Orders on Variable Products by Date:"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:924
+msgid "From :"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:929
+msgid "To :"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:943
+msgid "No ordered variable products found!!"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:964
+#: includes/wovpe-order-item.php:92
+msgid "Attributes"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:969
+msgid "Variations"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:982
+msgid "Qty"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:1022
+msgid "Total Quantity:"
+msgstr ""
+
+#: class/ced-export-variable-product-class.php:1041
+msgid ""
+"It seems either no variable products are ordered or they don't have any "
+"variations."
+msgstr ""
+
+#: includes/wovpe-order-item.php:37
+msgid "SKU:"
+msgstr ""
+
+#: includes/wovpe-order-item.php:45
+msgid "Price:"
+msgstr ""
+
+#: includes/wovpe-order-item.php:62
+msgid "Quantity "
+msgstr ""
+
+#: includes/wovpe-order-item.php:75
+msgid "Variation ID:"
+msgstr ""
+
+#: includes/wovpe-order-item.php:80
+msgid "No longer exists"
+msgstr ""
